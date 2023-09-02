@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-09-01 at 06:59 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.9.7
+ 
+ The Python interpreter is at: 
+ C:\Users\erins\miniconda3\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: base
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ C:\Users\erins\miniconda3
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\erins\OneDrive\Desktop\MS_Data_analytics\44-671\Module03\44671_Mod03
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\erins\OneDrive\Desktop\MS_Data_analytics\44-671\Module03\44671_Mod03\
+ 
+ The absolute path to this source directory is:
+
+ C:\Users\erins\OneDrive\Desktop\MS_Data_analytics\44-671\Module03\44671_Mod03
+ 
+ The absolute path to this file is:
+
+ C:\Users\erins\OneDrive\Desktop\MS_Data_analytics\44-671\Module03\44671_Mod03\about.py
+ 
+==============================================================
+==============================================================
+

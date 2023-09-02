@@ -1,11 +1,11 @@
 """
 
-Always customize this docstring. 
+Student: Erin Swan-Siegel
+Date: September 1, 2023
 
-Add your name, date, and a description of the program.
+This program listens for messages on the queue.
 
-Listens for messages on the queue.
-This process runs continously. 
+This process runs continously, until terminated
 
 Approach
 ---------
@@ -34,7 +34,7 @@ import pika, sys, os
 # define a main function to run the program
 def main():
     # create a blocking connection to the RabbitMQ server
-    connection = pika.BlockingConnection(pika.ConnectionParameters(host='LocalHostt'))
+    connection = pika.BlockingConnection(pika.ConnectionParameters(host='LocalHost'))
     # use the connection to create a communication channel
     channel = connection.channel()
     # use the channel to declare a queue

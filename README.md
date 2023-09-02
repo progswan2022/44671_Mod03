@@ -1,3 +1,7 @@
+# Course: 44-671, Module 03
+1. Erin Swan-Siegel
+1. Repo: https://github.com/progswan2022/44671_Mod03 
+
 # streaming-03-rabbitmq
 
 Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary
@@ -94,4 +98,4 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Mac Example](screenshot.png)
+![Erin's PC](Terminals_Emit_Listen.png)
